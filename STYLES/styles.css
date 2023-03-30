@@ -1,0 +1,34 @@
+/*
+1: 7BC74D
+2: 222831
+ligero: 393E46
+info: EEEEEE
+*/
+
+*{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.BG-SECONDARY{
+    background-color: #222831;
+}
+.TEXT-PRIMARY{
+    color: #7bc74d;
+}
+.TEXT-LIGHT{
+    color: #393e46;
+}
+.PADDING-10{
+    padding: 10px;
+}
+.ALIGN-CENTER{
+    text-align: center;
+}
+.BG-INFO{
+    background-color: #eeeeee;
+}
+.BG-LIGHT{
+    background-color: #393e46;
+}
+.WIDTH-50{
+    width: 50%;
+}
